@@ -6,14 +6,14 @@ export default function Home() {
 
     <>
 
-<div className="flex flex-col">
+      <div className="flex flex-col">
 
-  <div className="flex items-center justify-center">
+        <div className="flex items-center justify-center">
     
-  <Form/>
+          <Form/>
 
-  </div>
-</div>
+        </div>
+      </div>
    
 
 
